@@ -5,6 +5,7 @@ Manual da Pessoa Estudante da Trybe.
 
 # Boas vindas ao repositório do projeto Movie Cards Library!
 
+LINK :  https://carolinainglethe.github.io/ci-project-movie-cards-library/
 
 # Habilidades
 
